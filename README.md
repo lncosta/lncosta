@@ -14,7 +14,8 @@
 - 📄Link to my Resume: [https://github.com/lncosta/resume/blob/main/Resume_LuizaNCosta.pdf](https://github.com/lncosta/resume/blob/main/Resume_LuizaNCosta.pdf)
 
 <h3 align="left">Recent Projects:</h3>
-- 🎮 The Butler Did It! - a task management game made in Unity, for my COMP 376 class. <a href="[https://linkedin.com/in/lncosta](https://www.youtube.com/watch?v=DCP21Cm-m4o&list=WL&index=66&ab_channel=GeorgesGrondin)" target="blank"> Watch the demo here </a>
+- 🎮 The Butler Did It! - a task management game made in Unity, for my COMP 376 class. [https://linkedin.com/in/lncosta](https://www.youtube.com/watch?v=DCP21Cm-m4o&list=WL&index=66&ab_channel=GeorgesGrondin)
+- 
 - 🦇A vampire's study - rendering of a scene using volumetric lighting and shading in OpenGL. 
 
 <h3 align="left">Connect with me:</h3>
