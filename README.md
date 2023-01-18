@@ -13,11 +13,7 @@
 
 - 📄Link to my Resume: [https://github.com/lncosta/resume/blob/main/Resume_LuizaNCosta.pdf](https://github.com/lncosta/resume/blob/main/Resume_LuizaNCosta.pdf)
 
-<h3 align="left">Recent Projects:</h3>
-- 🎮 The Butler Did It! - a task management game made in Unity, for my COMP 376 class. [https://linkedin.com/in/lncosta](https://www.youtube.com/watch?v=DCP21Cm-m4o&list=WL&index=66&ab_channel=GeorgesGrondin)
-- 
-- 🦇A vampire's study - rendering of a scene using volumetric lighting and shading in OpenGL. 
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lncosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lncosta" height="30" width="40" /></a>
