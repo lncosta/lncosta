@@ -22,7 +22,9 @@
 <h3 align="left">My Recent Projects:</h3>
 <p align="left">
 <a href="https://www.youtube.com/watch?v=DCP21Cm-m4o&list=WL&index=66&ab_channel=GeorgesGrondin" target="blank"> The Butler Did It! - a task management game created in Unity. </a>
+</br>
 <a href="https://youtu.be/JzEjXX5c5sE" target="blank"> A Vampire's Study - real-time rendering of a thematic scene in OpenGL, with volumetric lighting and advanced shading. </a>
+</br>
 <a href="https://youtu.be/rnR-j6qd6-E" target="blank"> Vegetation Wind Simulation and Other Environmental Effects - procedural animation in OpenGL. </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
