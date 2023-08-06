@@ -1,18 +1,13 @@
 <h1 align="center">Hello! My name is Luiza</h1>
 <h3 align="center">I am a programmer with a passion for video games, graphics, interactive storytelling, and books!</h3>
 
-- 🌱 I’m currently learning **Rational Game Design using Unity, OpenGL, and AI methodology. I also want to start working with Unreal 5 soon.**
+- 🌱 **Game Programming using Unity, Unreal 5, OpenGL, and AI methodology.**
 - ➕ I am also interested in Mathematics and Theoretical Computer Science!
 - ✒️ Writing is one of my favorite hobbies
 
 - 📚 Computer Science student at Concordia University
 - 🎮 Specialization in Computer Games
 - 🎓 Class of 2023
-
-- 📫 How to reach me: **luiza.n16@gmail.com**
-
-- 📄Link to my Resume: [https://github.com/lncosta/resume/blob/main/Resume_LuizaNCosta.pdf](https://github.com/lncosta/resume/blob/main/Resume_LuizaNCosta.pdf)
-
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
